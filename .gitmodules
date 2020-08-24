@@ -10,3 +10,6 @@
 [submodule "syntax/opt/elixir"]
 	path = syntax/opt/elixir
 	url = https://github.com/elixir-lang/vim-elixir
+[submodule "plugins/start/simplyfold"]
+	path = plugins/start/simplyfold
+	url = https://github.com/tmhedberg/simpylfold
