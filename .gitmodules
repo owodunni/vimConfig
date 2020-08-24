@@ -16,3 +16,6 @@
 [submodule "plugins/start/python-mode"]
 	path = plugins/start/python-mode
 	url = https://github.com/python-mode/python-mode.git
+[submodule "/home/owodunni/.vim/pack/colors/start/gruvbox"]
+	path = /home/owodunni/.vim/pack/colors/start/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
